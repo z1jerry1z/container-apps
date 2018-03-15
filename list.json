@@ -178,9 +178,9 @@
         "arch": "amd64",
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/minecraft_icon.png",
         "displayName": "Minecraft",
-        "name": "cloudavionics/pocketmine-mp",
+        "name": "codehz/mcpe-server",
         "version": "latest",
-        "location": "https://hub.docker.com/r/cloudavionics/pocketmine-mp/",
+        "location": "https://hub.docker.com/r/codehz/mcpe-server/",
         "type": "docker"
     },
     {
