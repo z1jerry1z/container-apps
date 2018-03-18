@@ -189,9 +189,9 @@
         "arch": "amd64",
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/minecraft_icon.png",
         "displayName": "Minecraft",
-        "name": "nmarus/docker-pocketmine",
+        "name": "cloudavionics/pocketmine-mp",
         "version": "latest",
-        "location": "https://github.com/nmarus/docker-pocketmine",
+        "location": "https://hub.docker.com/r/cloudavionics/pocketmine-mp/",
         "type": "docker"
     },
     {
