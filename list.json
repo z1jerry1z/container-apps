@@ -177,10 +177,10 @@
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/minecraft_icon.png",
-        "displayName": "Minecraft",
-        "name": "codehz/mcpe-server",
+        "displayName": "Minecraft nukkit",
+        "name": "ixilon/nukkit",
         "version": "latest",
-        "location": "https://hub.docker.com/r/codehz/mcpe-server/",
+        "location": "https://hub.docker.com/r/ixilon/nukkit/",
         "type": "docker"
     },
     {
@@ -188,7 +188,7 @@
         "repository": "dockerhub",
         "arch": "amd64",
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/minecraft_icon.png",
-        "displayName": "Minecraft",
+        "displayName": "Minecraft pmmp",
         "name": "cloudavionics/pocketmine-mp",
         "version": "latest",
         "location": "https://hub.docker.com/r/cloudavionics/pocketmine-mp/",
